@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BallLabyrinthDemonstration/1.0.0": {
+        "dependencies": {
+          "_01_BallLabyrinth": "1.0.0"
+        },
+        "runtime": {
+          "BallLabyrinthDemonstration.dll": {}
+        }
+      },
+      "_01_BallLabyrinth/1.0.0": {
+        "runtime": {
+          "_01_BallLabyrinth.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BallLabyrinthDemonstration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "_01_BallLabyrinth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
