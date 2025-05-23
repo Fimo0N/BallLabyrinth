@@ -71,7 +71,6 @@ Clone the repository:
 
 ```bash
 git clone <repository_url>
-cd BallLabyrinthSolverVisualization
 ```
 
 Open in Visual Studio:
